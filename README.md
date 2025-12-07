@@ -43,11 +43,6 @@ A deep learning system that generates original piano MIDI compositions using tra
 ├── generated_midi/                  # Generated MIDI output files
 ├── sound_fonts/                     # SF2 soundfont files for audio synthesis
 ├── aria-midi-v1-deduped-ext/       # ARIA MIDI dataset (optional)
-└── Documentation/
-    ├── TRANSFORMER_ARCHITECTURE_EXPLAINED.md
-    ├── METADATA_HANDLING_STRATEGY.md
-    ├── METADATA_TOKENIZER_EXPLAINED.md
-    └── WEB_APP_README.md
 ```
 
 ## 🚀 Installation
