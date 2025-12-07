@@ -42,7 +42,7 @@ A deep learning system that generates original piano MIDI compositions using tra
 │   └── train/test splits           # Training/validation data
 ├── generated_midi/                  # Generated MIDI output files
 ├── sound_fonts/                     # SF2 soundfont files for audio synthesis
-├── aria-midi-v1-deduped-ext/       # ARIA MIDI dataset (optional)
+└── aria-midi-v1-deduped-ext/       # ARIA MIDI dataset (optional)
 ```
 
 ## 🚀 Installation
