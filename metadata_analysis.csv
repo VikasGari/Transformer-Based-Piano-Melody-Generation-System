@@ -1,0 +1,10 @@
+field_name,field_type,presence_count,presence_percentage,null_percentage,unique_values,top_5_values,recommendation
+genre,categorical,276948,74.64%,25.36%,10,"classical(112946), pop(70024), soundtrack(54912), jazz(18839), rock(6666)","INCLUDE - Excellent (70%+ coverage, <50 unique values)"
+composer,categorical,145186,39.13%,60.87%,14159,"hisaishi(3232), satie(2237), yiruma(1762), einaudi(1555), joplin(1372)",CONSIDER - Moderately sparse (30-50% coverage)
+music_period,categorical,144691,38.99%,61.01%,6,"contemporary(53757), modern(49383), romantic(16782), classical(16288), baroque(6443)",CONSIDER - Moderately sparse (30-50% coverage)
+form,categorical,60848,16.40%,83.60%,39,"improvisation(8226), sonata(5791), waltz(5376), etude(5125), arrangement(4314)",EXCLUDE - Too sparse (<30% coverage)
+difficulty,categorical,41587,11.21%,88.79%,4,"intermediate(21240), advanced(15282), beginner(4777), virtuoso(288)",EXCLUDE - Too sparse (<30% coverage)
+performer,categorical,25401,6.85%,93.15%,100,"kim(1839), yiruma(1316), lee(1206), clayderman(832), sakamoto(675)",EXCLUDE - Too sparse (<30% coverage)
+opus,numeric,24399,6.58%,93.42%,933,"1(723), 2(520), 3(456), 6(394), 12(390)",EXCLUDE - Too sparse (<30% coverage)
+key_signature,categorical,22403,6.04%,93.96%,39,"c(2404), d(1890), g(1661), f(1487), am(1297)",EXCLUDE - Too sparse (<30% coverage)
+piece_number,numeric,17457,4.70%,95.30%,261,"1(3371), 2(2856), 3(2231), 4(1476), 5(1144)",EXCLUDE - Too sparse (<30% coverage)

@@ -1,0 +1,27 @@
+# MIDI Processing Libraries
+mido>=1.2.10                    # Core MIDI reading/writing
+pretty_midi>=0.2.10            # Enhanced MIDI processing with piano roll support
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0                    # Progress bars
+
+# Deep Learning Framework
+torch>=2.0.0                    # PyTorch (recommended for research)
+
+# Transformer Libraries
+transformers>=4.30.0            # Hugging Face Transformers
+tokenizers>=0.13.0              # Fast tokenization
+
+# Visualization & Analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
+IPython>=8.12.0                 
+gradio>=4.0.0                   
+
+# Audio/MIDI Utilities
+librosa>=0.10.0                 # Audio analysis
+soundfile>=0.12.0               # Audio file I/O
+pyfluidsynth>=1.3.0             # FluidSynth Python bindings (optional, for MIDI to WAV conversion)
+

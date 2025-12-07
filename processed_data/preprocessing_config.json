@@ -1,0 +1,8 @@
+{
+  "min_quality_score": 0.97,
+  "max_sequence_length": 2048,
+  "time_quantization": 10,
+  "vocab_size": 746,
+  "num_sequences": 3843,
+  "total_tokens": 7766992
+}

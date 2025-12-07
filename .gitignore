@@ -1,0 +1,21 @@
+# Keep folder structure, ignore contents
+aria-midi-v1-deduped-ext/*
+!aria-midi-v1-deduped-ext/.gitkeep
+
+generated_midi/*
+!generated_midi/.gitkeep
+
+checkpoints/*
+*.zip
+*.md
+!*.README.md
+!README.md
+*.mid
+*.midi
+*.pt
+example-report
+piano-report
+sound_fonts/*
+test_midi_timing.py
+test_token_roundtrip.py
+
