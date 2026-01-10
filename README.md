@@ -85,8 +85,6 @@ For GPU acceleration on Windows:
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
-See `INSTALL_PYTORCH_CUDA.md` for detailed GPU setup instructions.
-
 ### Step 5: Download Soundfonts (Optional, for WAV generation)
 
 Add SF2 soundfont files to the `sound_fonts/` folder:
